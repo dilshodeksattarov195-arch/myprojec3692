@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerfarse",
+        "uuid": 14398800,
+        "checksum": "23sph9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
